@@ -17,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="90" lean-forward="false" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
+            <state relative-caret-position="432">
+              <caret line="43" column="62" lean-forward="false" selection-start-line="43" selection-start-column="62" selection-end-line="43" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -134,7 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1509342353456</updated>
       <workItem from="1509342357783" duration="2776000" />
-      <workItem from="1509432384555" duration="653000" />
+      <workItem from="1509432384555" duration="1403000" />
     </task>
     <task id="LOCAL-00001" summary="Updated index file with sections that will be needed for project build">
       <created>1509344038000</created>
@@ -150,11 +150,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509344967429</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Google fonts">
+      <created>1509433060841</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1509433060842</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3429000" />
+    <option name="totallyTimeSpent" value="4179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2180" y="40" width="1922" height="1053" extended-state="6" />
@@ -215,7 +222,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated index file with sections that will be needed for project build" />
     <MESSAGE value="Installed font-awesome" />
-    <option name="LAST_COMMIT_MESSAGE" value="Installed font-awesome" />
+    <MESSAGE value="Added Google fonts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Google fonts" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -239,8 +247,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="90" lean-forward="false" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
+        <state relative-caret-position="432">
+          <caret line="43" column="62" lean-forward="false" selection-start-line="43" selection-start-column="62" selection-end-line="43" selection-end-column="62" />
           <folding />
         </state>
       </provider>
