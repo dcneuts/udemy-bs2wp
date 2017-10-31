@@ -13,18 +13,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="43" column="62" lean-forward="false" selection-start-line="43" selection-start-column="62" selection-end-line="43" selection-end-column="62" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.58942556">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="454">
+                  <caret line="84" column="105" lean-forward="false" selection-start-line="84" selection-start-column="105" selection-end-line="84" selection-end-column="105" />
+                  <folding>
+                    <element signature="e#2928#2933#0" expanded="true" />
+                    <element signature="e#3933#3940#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/styles.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -134,7 +155,7 @@
       <option name="presentableId" value="Default" />
       <updated>1509342353456</updated>
       <workItem from="1509342357783" duration="2776000" />
-      <workItem from="1509432384555" duration="1403000" />
+      <workItem from="1509432384555" duration="2396000" />
     </task>
     <task id="LOCAL-00001" summary="Updated index file with sections that will be needed for project build">
       <created>1509344038000</created>
@@ -157,11 +178,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509433060842</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added BS navigation bar to index">
+      <created>1509433808011</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1509433808011</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4179000" />
+    <option name="totallyTimeSpent" value="5172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2180" y="40" width="1922" height="1053" extended-state="6" />
@@ -223,7 +251,8 @@
     <MESSAGE value="Updated index file with sections that will be needed for project build" />
     <MESSAGE value="Installed font-awesome" />
     <MESSAGE value="Added Google fonts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Google fonts" />
+    <MESSAGE value="Added BS navigation bar to index" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added BS navigation bar to index" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -234,7 +263,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#2928#2933#0" expanded="true" />
+            <element signature="e#3933#3940#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -245,11 +277,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="43" column="62" lean-forward="false" selection-start-line="43" selection-start-column="62" selection-end-line="43" selection-end-column="62" />
-          <folding />
+        <state relative-caret-position="454">
+          <caret line="84" column="105" lean-forward="false" selection-start-line="84" selection-start-column="105" selection-end-line="84" selection-end-column="105" />
+          <folding>
+            <element signature="e#2928#2933#0" expanded="true" />
+            <element signature="e#3933#3940#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
