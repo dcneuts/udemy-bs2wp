@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b4e5ffcb-bf87-496b-8dda-2782dc6939f2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,13 +20,13 @@
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="185">
-                  <caret line="120" column="114" lean-forward="false" selection-start-line="120" selection-start-column="114" selection-end-line="120" selection-end-column="114" />
+                  <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
                   <folding>
                     <element signature="e#2966#2971#0" expanded="true" />
                     <element signature="e#3971#3978#0" expanded="true" />
-                    <element signature="e#7083#7090#1" expanded="true" />
-                    <element signature="e#8706#8711#0" expanded="true" />
-                    <element signature="e#8807#8812#0" expanded="true" />
+                    <element signature="e#7082#7089#1" expanded="true" />
+                    <element signature="e#8705#8710#0" expanded="true" />
+                    <element signature="e#8806#8811#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -58,8 +57,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/scripts.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -167,7 +166,7 @@
       <workItem from="1509435561071" duration="311000" />
       <workItem from="1509517767025" duration="834000" />
       <workItem from="1509518613893" duration="750000" />
-      <workItem from="1510030437300" duration="7193000" />
+      <workItem from="1510030437300" duration="7250000" />
     </task>
     <task id="LOCAL-00001" summary="Updated index file with sections that will be needed for project build">
       <created>1509344038000</created>
@@ -232,11 +231,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510039308735</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added 'Boost Income' section using HTML/CSS">
+      <created>1510039742091</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1510039742091</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14310000" />
+    <option name="totallyTimeSpent" value="14367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2180" y="40" width="1922" height="1053" extended-state="6" />
@@ -304,7 +310,8 @@
     <MESSAGE value="Created parallax effect using combination of instructor project code and suggestions from online forums to fix positioning and speed" />
     <MESSAGE value="Added mail-list subscription area and styled with CSS" />
     <MESSAGE value="Added modal and modified CSS outside of project parameters to adjust for positioning of text." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added modal and modified CSS outside of project parameters to adjust for positioning of text." />
+    <MESSAGE value="Added 'Boost Income' section using HTML/CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 'Boost Income' section using HTML/CSS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -318,9 +325,9 @@
           <folding>
             <element signature="e#2966#2971#0" expanded="true" />
             <element signature="e#3971#3978#0" expanded="true" />
-            <element signature="e#7083#7090#1" expanded="true" />
-            <element signature="e#8706#8711#0" expanded="true" />
-            <element signature="e#8807#8812#0" expanded="true" />
+            <element signature="e#7082#7089#1" expanded="true" />
+            <element signature="e#8705#8710#0" expanded="true" />
+            <element signature="e#8806#8811#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -340,9 +347,9 @@
           <folding>
             <element signature="e#2966#2971#0" expanded="true" />
             <element signature="e#3971#3978#0" expanded="true" />
-            <element signature="e#7083#7090#1" expanded="true" />
-            <element signature="e#8706#8711#0" expanded="true" />
-            <element signature="e#8807#8812#0" expanded="true" />
+            <element signature="e#7082#7089#1" expanded="true" />
+            <element signature="e#8705#8710#0" expanded="true" />
+            <element signature="e#8806#8811#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -362,9 +369,9 @@
           <folding>
             <element signature="e#2966#2971#0" expanded="true" />
             <element signature="e#3971#3978#0" expanded="true" />
-            <element signature="e#7083#7090#1" expanded="true" />
-            <element signature="e#8706#8711#0" expanded="true" />
-            <element signature="e#8807#8812#0" expanded="true" />
+            <element signature="e#7082#7089#1" expanded="true" />
+            <element signature="e#8705#8710#0" expanded="true" />
+            <element signature="e#8806#8811#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -384,9 +391,9 @@
           <folding>
             <element signature="e#2966#2971#0" expanded="true" />
             <element signature="e#3971#3978#0" expanded="true" />
-            <element signature="e#7083#7090#1" expanded="true" />
-            <element signature="e#8706#8711#0" expanded="true" />
-            <element signature="e#8807#8812#0" expanded="true" />
+            <element signature="e#7082#7089#1" expanded="true" />
+            <element signature="e#8705#8710#0" expanded="true" />
+            <element signature="e#8806#8811#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -406,9 +413,9 @@
           <folding>
             <element signature="e#2966#2971#0" expanded="true" />
             <element signature="e#3971#3978#0" expanded="true" />
-            <element signature="e#7083#7090#1" expanded="true" />
-            <element signature="e#8706#8711#0" expanded="true" />
-            <element signature="e#8807#8812#0" expanded="true" />
+            <element signature="e#7082#7089#1" expanded="true" />
+            <element signature="e#8705#8710#0" expanded="true" />
+            <element signature="e#8806#8811#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -439,13 +446,13 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
-          <caret line="120" column="114" lean-forward="false" selection-start-line="120" selection-start-column="114" selection-end-line="120" selection-end-column="114" />
+          <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
           <folding>
             <element signature="e#2966#2971#0" expanded="true" />
             <element signature="e#3971#3978#0" expanded="true" />
-            <element signature="e#7083#7090#1" expanded="true" />
-            <element signature="e#8706#8711#0" expanded="true" />
-            <element signature="e#8807#8812#0" expanded="true" />
+            <element signature="e#7082#7089#1" expanded="true" />
+            <element signature="e#8705#8710#0" expanded="true" />
+            <element signature="e#8806#8811#0" expanded="true" />
           </folding>
         </state>
       </provider>
