@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4e5ffcb-bf87-496b-8dda-2782dc6939f2" name="Default" comment="Created parallax effect using combination of instructor project code and suggestions from online forums to fix positioning and speed">
+    <list default="true" id="b4e5ffcb-bf87-496b-8dda-2782dc6939f2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
@@ -14,31 +14,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="103" column="78" lean-forward="false" selection-start-line="103" selection-start-column="78" selection-end-line="103" selection-end-column="78" />
-              <folding>
-                <element signature="e#2966#2971#0" expanded="true" />
-                <element signature="e#3971#3978#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="536">
-              <caret line="43" column="19" lean-forward="false" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="383">
+                  <caret line="113" column="29" lean-forward="false" selection-start-line="113" selection-start-column="29" selection-end-line="113" selection-end-column="29" />
+                  <folding>
+                    <element signature="e#2966#2971#0" expanded="true" />
+                    <element signature="e#3971#3978#0" expanded="true" />
+                    <element signature="e#5751#5758#1" expanded="true" />
+                    <element signature="e#7374#7379#0" expanded="true" />
+                    <element signature="e#7475#7480#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/styles.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="691">
+                  <caret line="149" column="25" lean-forward="false" selection-start-line="149" selection-start-column="25" selection-end-line="149" selection-end-column="25" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,8 +58,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/scripts.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -156,7 +167,7 @@
       <workItem from="1509435561071" duration="311000" />
       <workItem from="1509517767025" duration="834000" />
       <workItem from="1509518613893" duration="750000" />
-      <workItem from="1510030437300" duration="4409000" />
+      <workItem from="1510030437300" duration="6753000" />
     </task>
     <task id="LOCAL-00001" summary="Updated index file with sections that will be needed for project build">
       <created>1509344038000</created>
@@ -207,11 +218,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510035443412</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added mail-list subscription area and styled with CSS">
+      <created>1510036953435</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1510036953435</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11526000" />
+    <option name="totallyTimeSpent" value="13870000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2180" y="40" width="1922" height="1053" extended-state="6" />
@@ -277,7 +295,8 @@
     <MESSAGE value="Added navigation, hero elements, and CTA button before CSS" />
     <MESSAGE value="Styled hero section using CSS and provided override to multiple BS default styles" />
     <MESSAGE value="Created parallax effect using combination of instructor project code and suggestions from online forums to fix positioning and speed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created parallax effect using combination of instructor project code and suggestions from online forums to fix positioning and speed" />
+    <MESSAGE value="Added mail-list subscription area and styled with CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added mail-list subscription area and styled with CSS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -291,6 +310,9 @@
           <folding>
             <element signature="e#2966#2971#0" expanded="true" />
             <element signature="e#3971#3978#0" expanded="true" />
+            <element signature="e#5751#5758#1" expanded="true" />
+            <element signature="e#7374#7379#0" expanded="true" />
+            <element signature="e#7475#7480#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -310,6 +332,9 @@
           <folding>
             <element signature="e#2966#2971#0" expanded="true" />
             <element signature="e#3971#3978#0" expanded="true" />
+            <element signature="e#5751#5758#1" expanded="true" />
+            <element signature="e#7374#7379#0" expanded="true" />
+            <element signature="e#7475#7480#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -329,6 +354,9 @@
           <folding>
             <element signature="e#2966#2971#0" expanded="true" />
             <element signature="e#3971#3978#0" expanded="true" />
+            <element signature="e#5751#5758#1" expanded="true" />
+            <element signature="e#7374#7379#0" expanded="true" />
+            <element signature="e#7475#7480#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -348,6 +376,9 @@
           <folding>
             <element signature="e#2966#2971#0" expanded="true" />
             <element signature="e#3971#3978#0" expanded="true" />
+            <element signature="e#5751#5758#1" expanded="true" />
+            <element signature="e#7374#7379#0" expanded="true" />
+            <element signature="e#7475#7480#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -367,6 +398,9 @@
           <folding>
             <element signature="e#2966#2971#0" expanded="true" />
             <element signature="e#3971#3978#0" expanded="true" />
+            <element signature="e#5751#5758#1" expanded="true" />
+            <element signature="e#7374#7379#0" expanded="true" />
+            <element signature="e#7475#7480#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -388,19 +422,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="43" column="19" lean-forward="false" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+        <state relative-caret-position="691">
+          <caret line="149" column="25" lean-forward="false" selection-start-line="149" selection-start-column="25" selection-end-line="149" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="103" column="78" lean-forward="false" selection-start-line="103" selection-start-column="78" selection-end-line="103" selection-end-column="78" />
+        <state relative-caret-position="383">
+          <caret line="113" column="29" lean-forward="false" selection-start-line="113" selection-start-column="29" selection-end-line="113" selection-end-column="29" />
           <folding>
             <element signature="e#2966#2971#0" expanded="true" />
             <element signature="e#3971#3978#0" expanded="true" />
+            <element signature="e#5751#5758#1" expanded="true" />
+            <element signature="e#7374#7379#0" expanded="true" />
+            <element signature="e#7475#7480#0" expanded="true" />
           </folding>
         </state>
       </provider>

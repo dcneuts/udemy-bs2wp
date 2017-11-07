@@ -57,6 +57,12 @@ img {
     max-width: 100%;
 }
 
+.vertical-align {
+    min-height: 100%;
+    display: flex;
+    align-items: center;
+}
+
 /* HERO */
 
 #hero {
@@ -136,4 +142,10 @@ img {
 
 #optin.p {
     margin: 7px 0 0 0;
+}
+
+.leadfix {
+    margin-top: 1%;
+    margin-bottom: 0px !important;
+    padding-bottom: 10px;
 }
