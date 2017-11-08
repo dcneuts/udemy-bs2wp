@@ -1,8 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4e5ffcb-bf87-496b-8dda-2782dc6939f2" name="Default" comment="">
+    <list default="true" id="b4e5ffcb-bf87-496b-8dda-2782dc6939f2" name="Default" comment="Who">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/css/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/aj.png" afterPath="$PROJECT_DIR$/img/aj.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/ben.png" afterPath="$PROJECT_DIR$/img/ben.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/brad-elvis.png" afterPath="$PROJECT_DIR$/img/brad-elvis.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/brad.png" afterPath="$PROJECT_DIR$/img/brad.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/brennan.jpg" afterPath="$PROJECT_DIR$/img/brennan.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/coda2-logo.jpg" afterPath="$PROJECT_DIR$/img/coda2-logo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/dark-bg.jpg" afterPath="$PROJECT_DIR$/img/dark-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/dropbox-logo.jpg" afterPath="$PROJECT_DIR$/img/dropbox-logo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/ernest.png" afterPath="$PROJECT_DIR$/img/ernest.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/favicon.ico" afterPath="$PROJECT_DIR$/img/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/generic-bg.jpg" afterPath="$PROJECT_DIR$/img/generic-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/hero-bg.jpg" afterPath="$PROJECT_DIR$/img/hero-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/hipster-stuff.jpg" afterPath="$PROJECT_DIR$/img/hipster-stuff.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icon-boost.png" afterPath="$PROJECT_DIR$/img/icon-boost.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icon-cms.png" afterPath="$PROJECT_DIR$/img/icon-cms.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icon-code.png" afterPath="$PROJECT_DIR$/img/icon-code.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icon-computer.png" afterPath="$PROJECT_DIR$/img/icon-computer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icon-design.png" afterPath="$PROJECT_DIR$/img/icon-design.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icon-features.png" afterPath="$PROJECT_DIR$/img/icon-features.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icon-pad.png" afterPath="$PROJECT_DIR$/img/icon-pad.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icon-resources.png" afterPath="$PROJECT_DIR$/img/icon-resources.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icon-rocket.png" afterPath="$PROJECT_DIR$/img/icon-rocket.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icon-sprite.png" afterPath="$PROJECT_DIR$/img/icon-sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icon-testimonials.png" afterPath="$PROJECT_DIR$/img/icon-testimonials.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/justhost-logo.jpg" afterPath="$PROJECT_DIR$/img/justhost-logo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo-badge.png" afterPath="$PROJECT_DIR$/img/logo-badge.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="$PROJECT_DIR$/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/stuff-bg.jpg" afterPath="$PROJECT_DIR$/img/stuff-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/stuff-feature.jpg" afterPath="$PROJECT_DIR$/img/stuff-feature.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/tile.jpg" afterPath="$PROJECT_DIR$/img/tile.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/bs2wp.iml" afterPath="$PROJECT_DIR$/.idea/bs2wp.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/jquery.xml" afterPath="$PROJECT_DIR$/.idea/libraries/jquery.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/webResources.xml" afterPath="$PROJECT_DIR$/.idea/webResources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,14 +66,15 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="185">
-                  <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+                <state relative-caret-position="894">
+                  <caret line="161" column="19" lean-forward="false" selection-start-line="161" selection-start-column="19" selection-end-line="161" selection-end-column="19" />
                   <folding>
                     <element signature="e#2966#2971#0" expanded="true" />
                     <element signature="e#3971#3978#0" expanded="true" />
-                    <element signature="e#7082#7089#1" expanded="true" />
-                    <element signature="e#8705#8710#0" expanded="true" />
-                    <element signature="e#8806#8811#0" expanded="true" />
+                    <element signature="e#6726#6731#0" expanded="true" />
+                    <element signature="e#10055#10062#1" expanded="true" />
+                    <element signature="e#11678#11683#0" expanded="true" />
+                    <element signature="e#11779#11784#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -39,8 +87,8 @@
           <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="537">
-                  <caret line="147" column="1" lean-forward="true" selection-start-line="147" selection-start-column="1" selection-end-line="147" selection-end-column="1" />
+                <state relative-caret-position="669">
+                  <caret line="169" column="22" lean-forward="false" selection-start-line="169" selection-start-column="22" selection-end-line="169" selection-end-column="22" />
                   <folding />
                 </state>
               </provider>
@@ -57,8 +105,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/scripts.js" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
     </option>
   </component>
@@ -80,10 +128,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2180" />
-    <option name="y" value="40" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="2222" />
+    <option name="width" value="1392" />
+    <option name="height" value="996" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -166,7 +213,8 @@
       <workItem from="1509435561071" duration="311000" />
       <workItem from="1509517767025" duration="834000" />
       <workItem from="1509518613893" duration="750000" />
-      <workItem from="1510030437300" duration="7250000" />
+      <workItem from="1510030437300" duration="7276000" />
+      <workItem from="1510117540448" duration="1497000" />
     </task>
     <task id="LOCAL-00001" summary="Updated index file with sections that will be needed for project build">
       <created>1509344038000</created>
@@ -238,24 +286,30 @@
       <option name="project" value="LOCAL" />
       <updated>1510039742091</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Caught syntax error in index file, fixed and pushed">
+      <created>1510039786852</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1510039786852</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14367000" />
+    <option name="totallyTimeSpent" value="15890000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2180" y="40" width="1922" height="1053" extended-state="6" />
-    <editor active="true" />
+    <frame x="1919" y="0" width="1922" height="1053" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.106723584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10779082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29697624" sideWeight="0.4868735" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.150108" sideWeight="0.5131265" order="7" side_tool="true" content_ui="tabs" x="2108" y="404" width="1544" height="248" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.150108" sideWeight="0.5131265" order="7" side_tool="true" content_ui="tabs" x="2108" y="404" width="1544" height="248" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -311,7 +365,8 @@
     <MESSAGE value="Added mail-list subscription area and styled with CSS" />
     <MESSAGE value="Added modal and modified CSS outside of project parameters to adjust for positioning of text." />
     <MESSAGE value="Added 'Boost Income' section using HTML/CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added 'Boost Income' section using HTML/CSS" />
+    <MESSAGE value="Caught syntax error in index file, fixed and pushed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caught syntax error in index file, fixed and pushed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -320,14 +375,38 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2024">
+          <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding>
+            <element signature="e#2966#2971#0" expanded="true" />
+            <element signature="e#3971#3978#0" expanded="true" />
+            <element signature="e#6726#6731#0" expanded="true" />
+            <element signature="e#10055#10062#1" expanded="true" />
+            <element signature="e#11678#11683#0" expanded="true" />
+            <element signature="e#11779#11784#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
           <folding>
             <element signature="e#2966#2971#0" expanded="true" />
             <element signature="e#3971#3978#0" expanded="true" />
-            <element signature="e#7082#7089#1" expanded="true" />
-            <element signature="e#8705#8710#0" expanded="true" />
-            <element signature="e#8806#8811#0" expanded="true" />
+            <element signature="e#6726#6731#0" expanded="true" />
+            <element signature="e#10055#10062#1" expanded="true" />
+            <element signature="e#11678#11683#0" expanded="true" />
+            <element signature="e#11779#11784#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -347,9 +426,10 @@
           <folding>
             <element signature="e#2966#2971#0" expanded="true" />
             <element signature="e#3971#3978#0" expanded="true" />
-            <element signature="e#7082#7089#1" expanded="true" />
-            <element signature="e#8705#8710#0" expanded="true" />
-            <element signature="e#8806#8811#0" expanded="true" />
+            <element signature="e#6726#6731#0" expanded="true" />
+            <element signature="e#10055#10062#1" expanded="true" />
+            <element signature="e#11678#11683#0" expanded="true" />
+            <element signature="e#11779#11784#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -369,9 +449,10 @@
           <folding>
             <element signature="e#2966#2971#0" expanded="true" />
             <element signature="e#3971#3978#0" expanded="true" />
-            <element signature="e#7082#7089#1" expanded="true" />
-            <element signature="e#8705#8710#0" expanded="true" />
-            <element signature="e#8806#8811#0" expanded="true" />
+            <element signature="e#6726#6731#0" expanded="true" />
+            <element signature="e#10055#10062#1" expanded="true" />
+            <element signature="e#11678#11683#0" expanded="true" />
+            <element signature="e#11779#11784#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -391,9 +472,10 @@
           <folding>
             <element signature="e#2966#2971#0" expanded="true" />
             <element signature="e#3971#3978#0" expanded="true" />
-            <element signature="e#7082#7089#1" expanded="true" />
-            <element signature="e#8705#8710#0" expanded="true" />
-            <element signature="e#8806#8811#0" expanded="true" />
+            <element signature="e#6726#6731#0" expanded="true" />
+            <element signature="e#10055#10062#1" expanded="true" />
+            <element signature="e#11678#11683#0" expanded="true" />
+            <element signature="e#11779#11784#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -413,9 +495,10 @@
           <folding>
             <element signature="e#2966#2971#0" expanded="true" />
             <element signature="e#3971#3978#0" expanded="true" />
-            <element signature="e#7082#7089#1" expanded="true" />
-            <element signature="e#8705#8710#0" expanded="true" />
-            <element signature="e#8806#8811#0" expanded="true" />
+            <element signature="e#6726#6731#0" expanded="true" />
+            <element signature="e#10055#10062#1" expanded="true" />
+            <element signature="e#11678#11683#0" expanded="true" />
+            <element signature="e#11779#11784#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -431,29 +514,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="147" column="1" lean-forward="true" selection-start-line="147" selection-start-column="1" selection-end-line="147" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+        <state relative-caret-position="894">
+          <caret line="161" column="19" lean-forward="false" selection-start-line="161" selection-start-column="19" selection-end-line="161" selection-end-column="19" />
           <folding>
             <element signature="e#2966#2971#0" expanded="true" />
             <element signature="e#3971#3978#0" expanded="true" />
-            <element signature="e#7082#7089#1" expanded="true" />
-            <element signature="e#8705#8710#0" expanded="true" />
-            <element signature="e#8806#8811#0" expanded="true" />
+            <element signature="e#6726#6731#0" expanded="true" />
+            <element signature="e#10055#10062#1" expanded="true" />
+            <element signature="e#11678#11683#0" expanded="true" />
+            <element signature="e#11779#11784#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="169" column="22" lean-forward="false" selection-start-line="169" selection-start-column="22" selection-end-line="169" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
