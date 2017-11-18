@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4e5ffcb-bf87-496b-8dda-2782dc6939f2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/webResources.xml" afterPath="$PROJECT_DIR$/.idea/webResources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +17,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="194" column="25" lean-forward="true" selection-start-line="194" selection-start-column="25" selection-end-line="194" selection-end-column="25" />
+            <state relative-caret-position="691">
+              <caret line="241" column="39" lean-forward="false" selection-start-line="241" selection-start-column="39" selection-end-line="241" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -205,7 +203,7 @@
       <workItem from="1510126128337" duration="1992000" />
       <workItem from="1510643744059" duration="1092000" />
       <workItem from="1510905266838" duration="619000" />
-      <workItem from="1510990746678" duration="1433000" />
+      <workItem from="1510990746678" duration="2258000" />
     </task>
     <task id="LOCAL-00001" summary="Updated index file with sections that will be needed for project build">
       <created>1509344038000</created>
@@ -312,11 +310,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510127677937</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="First half of instructor section completed">
+      <created>1510992211413</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1510992211413</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24236000" />
+    <option name="totallyTimeSpent" value="25061000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1922" height="1053" extended-state="6" />
@@ -390,7 +395,8 @@
     <MESSAGE value="Fixed typo in last section with H3 tag, completed features section with sprites and styled in CSS" />
     <MESSAGE value="Built final project features section and styled it." />
     <MESSAGE value="Finished featurette section, but YouTube has the glitch where the cover photo is not displaying correctly due to embedded video params." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished featurette section, but YouTube has the glitch where the cover photo is not displaying correctly due to embedded video params." />
+    <MESSAGE value="First half of instructor section completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="First half of instructor section completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -840,8 +846,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="194" column="25" lean-forward="true" selection-start-line="194" selection-start-column="25" selection-end-line="194" selection-end-column="25" />
+        <state relative-caret-position="691">
+          <caret line="241" column="39" lean-forward="false" selection-start-line="241" selection-start-column="39" selection-end-line="241" selection-end-column="39" />
           <folding />
         </state>
       </provider>
