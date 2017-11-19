@@ -18,8 +18,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="384" column="96" lean-forward="false" selection-start-line="384" selection-start-column="96" selection-end-line="384" selection-end-column="96" />
+            <state relative-caret-position="339">
+              <caret line="403" column="71" lean-forward="false" selection-start-line="403" selection-start-column="71" selection-end-line="403" selection-end-column="71" />
               <folding>
                 <element signature="e#2983#2988#0" expanded="true" />
                 <element signature="e#3988#3995#0" expanded="true" />
@@ -31,6 +31,7 @@
                 <element signature="e#18309#18316#0" expanded="true" />
                 <element signature="e#19107#19114#0" expanded="true" />
                 <element signature="e#20064#20071#0" expanded="true" />
+                <element signature="e#21754#21760#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -39,8 +40,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="51" column="29" lean-forward="false" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+            <state relative-caret-position="616">
+              <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -208,7 +209,7 @@
       <workItem from="1510643744059" duration="1092000" />
       <workItem from="1510905266838" duration="619000" />
       <workItem from="1510990746678" duration="2301000" />
-      <workItem from="1511057570887" duration="6276000" />
+      <workItem from="1511057570887" duration="7071000" />
     </task>
     <task id="LOCAL-00001" summary="Updated index file with sections that will be needed for project build">
       <created>1509344038000</created>
@@ -343,11 +344,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511065658188</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Coded sign-up section before adding additional media queries">
+      <created>1511067373721</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1511067373721</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31380000" />
+    <option name="totallyTimeSpent" value="32175000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="0" width="1922" height="1053" extended-state="6" />
@@ -425,7 +433,8 @@
     <MESSAGE value="Styling of social media icons and first part of CSS3 circle styling for numbers in instructor area" />
     <MESSAGE value="Finished coding &quot;The Numbers&quot; section and adjusted layout, had to go off-script and change older CSS styles to flex in order to vertically align as the table-cell method was not working smoothly." />
     <MESSAGE value="Coded testimonials section using blockquotes and illustrations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Coded testimonials section using blockquotes and illustrations" />
+    <MESSAGE value="Coded sign-up section before adding additional media queries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coded sign-up section before adding additional media queries" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -455,6 +464,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -474,6 +484,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -501,6 +512,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -528,6 +540,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -555,6 +568,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -582,6 +596,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -609,6 +624,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -636,6 +652,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -663,6 +680,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -690,6 +708,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -731,6 +750,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -750,6 +770,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -777,6 +798,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -804,6 +826,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -831,6 +854,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -858,6 +882,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -885,6 +910,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -912,6 +938,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -939,6 +966,7 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -959,8 +987,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="384" column="96" lean-forward="false" selection-start-line="384" selection-start-column="96" selection-end-line="384" selection-end-column="96" />
+        <state relative-caret-position="339">
+          <caret line="403" column="71" lean-forward="false" selection-start-line="403" selection-start-column="71" selection-end-line="403" selection-end-column="71" />
           <folding>
             <element signature="e#2983#2988#0" expanded="true" />
             <element signature="e#3988#3995#0" expanded="true" />
@@ -972,14 +1000,15 @@
             <element signature="e#18309#18316#0" expanded="true" />
             <element signature="e#19107#19114#0" expanded="true" />
             <element signature="e#20064#20071#0" expanded="true" />
+            <element signature="e#21754#21760#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="51" column="29" lean-forward="false" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+        <state relative-caret-position="616">
+          <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
           <folding />
         </state>
       </provider>
