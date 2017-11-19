@@ -193,7 +193,7 @@ section h3 {
 
 .leadfix {
     margin-top: 1%;
-    margin-bottom: 0px !important;
+    margin-bottom: 0 !important;
     padding-bottom: 10px;
 }
 
@@ -228,9 +228,11 @@ section h3 {
 }
 
 #instructor .num {
+    display: block;
     font-size: 30px;
     font-weight: bold;
     color: white;
+    line-height: 24px;
     height: 140px;
     width: 140px;
     text-align: center;
@@ -240,6 +242,18 @@ section h3 {
     border-radius: 100%;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizelegibility;
+}
+
+#instructor .num {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#instructor .num span {
+    display: block;
+    font-size: 20px;
+    font-weight: normal;
 }
 
 /* Custom Icon Sprites */
