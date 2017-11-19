@@ -19,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="528">
-              <caret line="366" column="103" lean-forward="true" selection-start-line="366" selection-start-column="103" selection-end-line="366" selection-end-column="103" />
+              <caret line="384" column="96" lean-forward="false" selection-start-line="384" selection-start-column="96" selection-end-line="384" selection-end-column="96" />
               <folding>
                 <element signature="e#2983#2988#0" expanded="true" />
                 <element signature="e#3988#3995#0" expanded="true" />
@@ -39,8 +39,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="110" column="18" lean-forward="false" selection-start-line="110" selection-start-column="18" selection-end-line="110" selection-end-column="18" />
+            <state relative-caret-position="284">
+              <caret line="51" column="29" lean-forward="false" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -208,7 +208,7 @@
       <workItem from="1510643744059" duration="1092000" />
       <workItem from="1510905266838" duration="619000" />
       <workItem from="1510990746678" duration="2301000" />
-      <workItem from="1511057570887" duration="4930000" />
+      <workItem from="1511057570887" duration="6276000" />
     </task>
     <task id="LOCAL-00001" summary="Updated index file with sections that will be needed for project build">
       <created>1509344038000</created>
@@ -336,11 +336,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511060429977</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Coded testimonials section using blockquotes and illustrations">
+      <created>1511065658188</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1511065658188</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30034000" />
+    <option name="totallyTimeSpent" value="31380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="0" width="1922" height="1053" extended-state="6" />
@@ -417,7 +424,8 @@
     <MESSAGE value="First half of instructor section completed" />
     <MESSAGE value="Styling of social media icons and first part of CSS3 circle styling for numbers in instructor area" />
     <MESSAGE value="Finished coding &quot;The Numbers&quot; section and adjusted layout, had to go off-script and change older CSS styles to flex in order to vertically align as the table-cell method was not working smoothly." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished coding &quot;The Numbers&quot; section and adjusted layout, had to go off-script and change older CSS styles to flex in order to vertically align as the table-cell method was not working smoothly." />
+    <MESSAGE value="Coded testimonials section using blockquotes and illustrations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coded testimonials section using blockquotes and illustrations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -952,7 +960,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
-          <caret line="366" column="103" lean-forward="true" selection-start-line="366" selection-start-column="103" selection-end-line="366" selection-end-column="103" />
+          <caret line="384" column="96" lean-forward="false" selection-start-line="384" selection-start-column="96" selection-end-line="384" selection-end-column="96" />
           <folding>
             <element signature="e#2983#2988#0" expanded="true" />
             <element signature="e#3988#3995#0" expanded="true" />
@@ -970,8 +978,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="110" column="18" lean-forward="false" selection-start-line="110" selection-start-column="18" selection-end-line="110" selection-end-column="18" />
+        <state relative-caret-position="284">
+          <caret line="51" column="29" lean-forward="false" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
           <folding />
         </state>
       </provider>
