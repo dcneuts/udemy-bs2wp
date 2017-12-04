@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b4e5ffcb-bf87-496b-8dda-2782dc6939f2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/post.html" afterPath="$PROJECT_DIR$/post.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -154,7 +152,7 @@
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="39" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -283,7 +281,7 @@
       <workItem from="1512154329921" duration="2217000" />
       <workItem from="1512156662856" duration="3163000" />
       <workItem from="1512330922205" duration="749000" />
-      <workItem from="1512331789175" duration="13738000" />
+      <workItem from="1512331789175" duration="14362000" />
     </task>
     <task id="LOCAL-00001" summary="Updated index file with sections that will be needed for project build">
       <created>1509344038000</created>
@@ -453,14 +451,21 @@
       <option name="project" value="LOCAL" />
       <updated>1512358047988</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Fixed miscellaneous styles, including button for posts, before integrating WP and PHP">
+      <created>1512358350881</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1512358350881</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53438000" />
+    <option name="totallyTimeSpent" value="54062000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19083156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -541,7 +546,8 @@
     <MESSAGE value="Finished styling single-page blog post comment section" />
     <MESSAGE value="Created and styled resources page" />
     <MESSAGE value="Finished creating contact page and styling it, last of dynamic pages before WordPress integration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished creating contact page and styling it, last of dynamic pages before WordPress integration" />
+    <MESSAGE value="Fixed miscellaneous styles, including button for posts, before integrating WP and PHP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed miscellaneous styles, including button for posts, before integrating WP and PHP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
