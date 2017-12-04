@@ -142,6 +142,10 @@ blockquote:before {
     display : none;
 }
 
+section {
+    padding: 80px 0;
+}
+
 /* HERO */
 
 #hero {
@@ -218,6 +222,10 @@ section {
     padding  : 80px 0;
     position : relative;
     bottom   : 17px; /* Fix for odd image behavior at top of blog banner */
+}
+
+.section .main-content {
+    padding: 40px 0;
 }
 
 .section-header {
@@ -555,6 +563,18 @@ footer li.signup-link a:hover {
     border-top: solid 1px #eee;
 }
 
+/* RESOURCES */
+
+.resource {
+    width: 31.33333333%;
+    float: left;
+    margin: 0 3% 40px 0;
+}
+
+.resource:nth-child(3n) {
+    margin-right: 0;
+}
+
 /* Custom Icon Sprites */
 
 i.ci {
@@ -634,6 +654,12 @@ textarea {
     #featurette iframe {
         height : 240px;
     }
+
+    .resource {
+        width: 48%;
+        margin-right: 2%;
+        min-height: 800px;
+    }
 }
 
 @media screen and (max-width : 568px) {
@@ -645,5 +671,11 @@ textarea {
 
     #instructor .num span {
         font-size : 16px;
+    }
+
+    .resource {
+        width: 100%;
+        margin-right: 0;
+        min-height: 0;
     }
 }
