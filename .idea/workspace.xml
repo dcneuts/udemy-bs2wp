@@ -2,9 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4e5ffcb-bf87-496b-8dda-2782dc6939f2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/css/font-awesome/css/font-awesome.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/css/font-awesome/css/font-awesome.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/css/font-awesome/fonts/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/css/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/css/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/css/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/css/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/aj.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/ben.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/brad-elvis.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/brad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/brennan.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/coda2-logo.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/dark-bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/dropbox-logo.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/ernest.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/generic-bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/hero-bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/hipster-stuff.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/icon-boost.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/icon-cms.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/icon-code.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/icon-computer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/icon-design.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/icon-features.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/icon-pad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/icon-resources.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/icon-rocket.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/icon-sprite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/icon-testimonials.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/justhost-logo.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/logo-badge.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/stuff-bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/stuff-feature.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/img/tile.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/js/html5shiv.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/js/jquery-3.2.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/js/respond.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wp/assets/js/scripts.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/wp/wp-content/themes/bootstrap2wordpress/header.php" afterPath="$PROJECT_DIR$/wp/wp-content/themes/bootstrap2wordpress/header.php" />
+      <change beforePath="$PROJECT_DIR$/wp/wp-content/themes/bootstrap2wordpress/style.css" afterPath="$PROJECT_DIR$/wp/wp-content/themes/bootstrap2wordpress/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +66,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="52" column="17" lean-forward="true" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+            <state relative-caret-position="374">
+              <caret line="17" column="16" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="17" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -48,8 +96,8 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp/wp-content/themes/bootstrap2wordpress/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="41" column="68" lean-forward="false" selection-start-line="41" selection-start-column="68" selection-end-line="41" selection-end-column="68" />
+            <state relative-caret-position="352">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -89,6 +137,7 @@
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/post.html" />
+        <option value="$PROJECT_DIR$/wp/wp-content/themes/bootstrap2wordpress/style.css" />
         <option value="$PROJECT_DIR$/wp/wp-content/themes/bootstrap2wordpress/header.php" />
       </list>
     </option>
@@ -142,40 +191,20 @@
             <path>
               <item name="bs2wp" type="b2602c69:ProjectViewProjectNode" />
               <item name="bs2wp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="bs2wp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bs2wp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="font-awesome" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="bs2wp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bs2wp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="font-awesome" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="bs2wp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bs2wp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="font-awesome" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="font-awesome.css" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="bs2wp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bs2wp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="font-awesome" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="fonts" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="bs2wp" type="b2602c69:ProjectViewProjectNode" />
               <item name="bs2wp" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="wp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="bs2wp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bs2wp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="bs2wp" type="b2602c69:ProjectViewProjectNode" />
@@ -215,6 +244,11 @@
     <property name="javascript.nodejs.core.library.configured.version" value="8.9.1" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\bs2wp\wp\assets" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -262,7 +296,7 @@
       <workItem from="1512330922205" duration="749000" />
       <workItem from="1512331789175" duration="15646000" />
       <workItem from="1512409702889" duration="95000" />
-      <workItem from="1512711587201" duration="1096000" />
+      <workItem from="1512711587201" duration="2397000" />
     </task>
     <task id="LOCAL-00001" summary="Updated index file with sections that will be needed for project build">
       <created>1509344038000</created>
@@ -439,11 +473,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512358350881</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Modified header.php to include bootstrap menu">
+      <created>1512712713396</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1512712713396</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56537000" />
+    <option name="totallyTimeSpent" value="57838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -504,7 +545,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated index file with sections that will be needed for project build" />
     <MESSAGE value="Installed font-awesome" />
     <MESSAGE value="Added Google fonts" />
     <MESSAGE value="Added BS navigation bar to index" />
@@ -529,7 +569,8 @@
     <MESSAGE value="Created and styled resources page" />
     <MESSAGE value="Finished creating contact page and styling it, last of dynamic pages before WordPress integration" />
     <MESSAGE value="Fixed miscellaneous styles, including button for posts, before integrating WP and PHP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed miscellaneous styles, including button for posts, before integrating WP and PHP" />
+    <MESSAGE value="Modified header.php to include bootstrap menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified header.php to include bootstrap menu" />
   </component>
   <component name="WordPressConfiguration" enabled="true">
     <wordpressPath>$PROJECT_DIR$/wp</wordpressPath>
@@ -539,22 +580,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8866">
-          <caret line="403" column="71" lean-forward="false" selection-start-line="403" selection-start-column="71" selection-end-line="403" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1012">
@@ -897,14 +922,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="52" column="17" lean-forward="true" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp/wp-content/themes/bootstrap2wordpress/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-594">
@@ -913,10 +930,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="822">
+          <caret line="713" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="713" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp/wp-content/themes/bootstrap2wordpress/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="42" column="22" lean-forward="false" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp/wp-content/themes/bootstrap2wordpress/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="41" column="68" lean-forward="false" selection-start-line="41" selection-start-column="68" selection-end-line="41" selection-end-column="68" />
+        <state relative-caret-position="352">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>

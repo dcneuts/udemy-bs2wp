@@ -17,7 +17,18 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 
+	<!-- Bootstrap Core -->
+
+	<link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/wp/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/wp/assets/css/font-awesome/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
+
 	<?php wp_head(); ?>
+	<!-- Shiv and Respond must be last before end of head -->
+	<!--[if lte IE 9]>
+	<script src="/wp/assets/js/html5shiv.min.js"></script>
+	<script src="/wp/assets/js/respond.min.js"></script>
+	<![endif]-->
 </head>
 
 <body <?php body_class(); ?>>
@@ -39,7 +50,8 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="/"><img src="/img/logo.png" alt="Bootstrap to WordPress"></a>
+						<a class="navbar-brand" href="/"><img src="/wp/assets/img/logo.png" alt="Bootstrap to
+						WordPress"></a>
 					</div><!-- navbar header -->
 					      <!-- If the menu (WP Admin Area) is not set, then the "menu_class" is applied to
 					      "container". It will overwrite the "container_class". -->
