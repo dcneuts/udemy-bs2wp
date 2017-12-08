@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4e5ffcb-bf87-496b-8dda-2782dc6939f2" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/wp/wp-content/themes/bootstrap2wordpress/header.php" afterPath="$PROJECT_DIR$/wp/wp-content/themes/bootstrap2wordpress/header.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,62 +18,19 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="392" column="29" lean-forward="false" selection-start-line="390" selection-start-column="0" selection-end-line="457" selection-end-column="7" />
-              <folding>
-                <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1746">
-              <caret line="262" column="7" lean-forward="false" selection-start-line="262" selection-start-column="7" selection-end-line="262" selection-end-column="7" />
+            <state relative-caret-position="66">
+              <caret line="52" column="17" lean-forward="true" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/post.html">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp/wp-content/themes/bootstrap2wordpress/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="822">
-              <caret line="339" column="7" lean-forward="false" selection-start-line="339" selection-start-column="7" selection-end-line="339" selection-end-column="7" />
-              <folding>
-                <element signature="e#4592#4598#0" expanded="true" />
-                <element signature="e#5182#5188#0" expanded="true" />
-                <element signature="e#5797#5803#0" expanded="true" />
-                <element signature="e#6535#6541#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="resources.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="822">
-              <caret line="189" column="7" lean-forward="false" selection-start-line="189" selection-start-column="7" selection-end-line="189" selection-end-column="7" />
-              <folding>
-                <element signature="e#2805#2812#0" expanded="true" />
-                <element signature="e#2954#2961#0" expanded="true" />
-                <element signature="e#3359#3366#0" expanded="true" />
-                <element signature="e#3372#3379#0" expanded="true" />
-                <element signature="e#3588#3595#0" expanded="true" />
-                <element signature="e#3696#3703#0" expanded="true" />
-                <element signature="e#4297#4304#0" expanded="true" />
-                <element signature="e#4661#4668#0" expanded="true" />
-                <element signature="e#4938#4945#0" expanded="true" />
-                <element signature="e#4965#4972#0" expanded="true" />
-                <element signature="e#5344#5351#0" expanded="true" />
-                <element signature="e#5386#5393#0" expanded="true" />
-                <element signature="e#5469#5476#0" expanded="true" />
-                <element signature="e#5714#5721#0" expanded="true" />
-                <element signature="e#5761#5768#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-594">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -79,21 +38,19 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="660" column="0" lean-forward="true" selection-start-line="660" selection-start-column="0" selection-end-line="660" selection-end-column="0" />
+            <state relative-caret-position="13178">
+              <caret line="599" column="0" lean-forward="false" selection-start-line="599" selection-start-column="0" selection-end-line="599" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.html">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp/wp-content/themes/bootstrap2wordpress/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2648">
-              <caret line="181" column="7" lean-forward="false" selection-start-line="181" selection-start-column="7" selection-end-line="181" selection-end-column="7" />
-              <folding>
-                <element signature="e#2396#2403#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="594">
+              <caret line="41" column="68" lean-forward="false" selection-start-line="41" selection-start-column="68" selection-end-line="41" selection-end-column="68" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -132,6 +89,7 @@
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/post.html" />
+        <option value="$PROJECT_DIR$/wp/wp-content/themes/bootstrap2wordpress/header.php" />
       </list>
     </option>
   </component>
@@ -152,11 +110,11 @@
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="39" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-58" />
+    <option name="y" value="-17" />
+    <option name="width" value="1922" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -174,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,17 +175,39 @@
             <path>
               <item name="bs2wp" type="b2602c69:ProjectViewProjectNode" />
               <item name="bs2wp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="bs2wp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bs2wp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="bs2wp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bs2wp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="bs2wp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bs2wp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bootstrap2wordpress" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.SQL" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="/mnt/4651408D4C7F28BC/github/igcomingsoon" />
@@ -281,7 +260,9 @@
       <workItem from="1512154329921" duration="2217000" />
       <workItem from="1512156662856" duration="3163000" />
       <workItem from="1512330922205" duration="749000" />
-      <workItem from="1512331789175" duration="14362000" />
+      <workItem from="1512331789175" duration="15646000" />
+      <workItem from="1512409702889" duration="95000" />
+      <workItem from="1512711587201" duration="1096000" />
     </task>
     <task id="LOCAL-00001" summary="Updated index file with sections that will be needed for project build">
       <created>1509344038000</created>
@@ -462,15 +443,16 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54062000" />
+    <option name="totallyTimeSpent" value="56537000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19083156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19509594" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29697624" sideWeight="0.4868735" order="7" side_tool="false" content_ui="tabs" />
@@ -549,29 +531,14 @@
     <MESSAGE value="Fixed miscellaneous styles, including button for posts, before integrating WP and PHP" />
     <option name="LAST_COMMIT_MESSAGE" value="Fixed miscellaneous styles, including button for posts, before integrating WP and PHP" />
   </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>$PROJECT_DIR$/wp</wordpressPath>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8866">
-          <caret line="403" column="71" lean-forward="false" selection-start-line="403" selection-start-column="71" selection-end-line="403" selection-end-column="71" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
@@ -584,9 +551,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8866">
           <caret line="403" column="71" lean-forward="false" selection-start-line="403" selection-start-column="71" selection-end-line="403" selection-end-column="71" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -610,9 +575,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -620,9 +583,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6556">
           <caret line="298" column="37" lean-forward="true" selection-start-line="298" selection-start-column="37" selection-end-line="298" selection-end-column="37" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -638,9 +599,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5874">
           <caret line="267" column="144" lean-forward="false" selection-start-line="267" selection-start-column="144" selection-end-line="267" selection-end-column="144" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -656,9 +615,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5082">
           <caret line="231" column="122" lean-forward="true" selection-start-line="231" selection-start-column="122" selection-end-line="231" selection-end-column="122" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -674,9 +631,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2024">
           <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -692,9 +647,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -710,9 +663,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -728,9 +679,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1848">
           <caret line="84" column="105" lean-forward="false" selection-start-line="84" selection-start-column="105" selection-end-line="84" selection-end-column="105" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -746,9 +695,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1848">
           <caret line="84" column="105" lean-forward="false" selection-start-line="84" selection-start-column="105" selection-end-line="84" selection-end-column="105" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -764,9 +711,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -796,9 +741,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="271" column="36" lean-forward="false" selection-start-line="271" selection-start-column="36" selection-end-line="271" selection-end-column="36" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -806,9 +749,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5874">
           <caret line="267" column="144" lean-forward="false" selection-start-line="267" selection-start-column="144" selection-end-line="267" selection-end-column="144" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -824,9 +765,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5082">
           <caret line="231" column="122" lean-forward="true" selection-start-line="231" selection-start-column="122" selection-end-line="231" selection-end-column="122" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -842,9 +781,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2024">
           <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -860,9 +797,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -878,9 +813,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -896,9 +829,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1848">
           <caret line="84" column="105" lean-forward="false" selection-start-line="84" selection-start-column="105" selection-end-line="84" selection-end-column="105" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -914,9 +845,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1848">
           <caret line="84" column="105" lean-forward="false" selection-start-line="84" selection-start-column="105" selection-end-line="84" selection-end-column="105" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -932,9 +861,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -956,72 +883,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1746">
           <caret line="262" column="7" lean-forward="false" selection-start-line="262" selection-start-column="7" selection-end-line="262" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="822">
-          <caret line="189" column="7" lean-forward="false" selection-start-line="189" selection-start-column="7" selection-end-line="189" selection-end-column="7" />
-          <folding>
-            <element signature="e#2805#2812#0" expanded="true" />
-            <element signature="e#2954#2961#0" expanded="true" />
-            <element signature="e#3359#3366#0" expanded="true" />
-            <element signature="e#3372#3379#0" expanded="true" />
-            <element signature="e#3588#3595#0" expanded="true" />
-            <element signature="e#3696#3703#0" expanded="true" />
-            <element signature="e#4297#4304#0" expanded="true" />
-            <element signature="e#4661#4668#0" expanded="true" />
-            <element signature="e#4938#4945#0" expanded="true" />
-            <element signature="e#4965#4972#0" expanded="true" />
-            <element signature="e#5344#5351#0" expanded="true" />
-            <element signature="e#5386#5393#0" expanded="true" />
-            <element signature="e#5469#5476#0" expanded="true" />
-            <element signature="e#5714#5721#0" expanded="true" />
-            <element signature="e#5761#5768#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2648">
-          <caret line="181" column="7" lean-forward="false" selection-start-line="181" selection-start-column="7" selection-end-line="181" selection-end-column="7" />
-          <folding>
-            <element signature="e#2396#2403#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html" />
+    <entry file="file://$PROJECT_DIR$/post.html" />
+    <entry file="file://$PROJECT_DIR$/resources.html" />
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="660" column="0" lean-forward="true" selection-start-line="660" selection-start-column="0" selection-end-line="660" selection-end-column="0" />
+        <state relative-caret-position="13178">
+          <caret line="599" column="0" lean-forward="false" selection-start-line="599" selection-start-column="0" selection-end-line="599" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="392" column="29" lean-forward="false" selection-start-line="390" selection-start-column="0" selection-end-line="457" selection-end-column="7" />
-          <folding>
-            <marker date="1512334538850" expanded="true" signature="23850:23973" ph="..." />
-          </folding>
+        <state relative-caret-position="66">
+          <caret line="52" column="17" lean-forward="true" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/post.html">
+    <entry file="file://$PROJECT_DIR$/wp/wp-content/themes/bootstrap2wordpress/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="822">
-          <caret line="339" column="7" lean-forward="false" selection-start-line="339" selection-start-column="7" selection-end-line="339" selection-end-column="7" />
-          <folding>
-            <element signature="e#4592#4598#0" expanded="true" />
-            <element signature="e#5182#5188#0" expanded="true" />
-            <element signature="e#5797#5803#0" expanded="true" />
-            <element signature="e#6535#6541#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-594">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp/wp-content/themes/bootstrap2wordpress/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="41" column="68" lean-forward="false" selection-start-line="41" selection-start-column="68" selection-end-line="41" selection-end-column="68" />
+          <folding />
         </state>
       </provider>
     </entry>
